@@ -1,0 +1,10 @@
+
+
+./imagenet-camera \
+--prototxt=$mark1/deploy.prototxt \
+--model=$mark1/snapshot_iter_1230.caffemodel \
+--labels=$mark1/labels.txt \
+--input_blob=data \
+--output_blob=softmax
+
+

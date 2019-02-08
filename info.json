@@ -1,0 +1,27 @@
+{
+    "caffe flavor": "BVLC",
+    "caffe version": "1.0.0",
+    "creation time": "2018-12-21 18:01:24.801969",
+    "dataset_id": "20181104-173729-9fad",
+    "deploy file": "deploy.prototxt",
+    "digits version": "6.1.1",
+    "framework": "caffe",
+    "id": "20181221-180124-f25b",
+    "image dimensions": [
+        256,
+        256,
+        3
+    ],
+    "image resize mode": "squash",
+    "job id": "20181221-180124-f25b",
+    "labels file": "labels.txt",
+    "mean file": "mean.binaryproto",
+    "mean subtraction": "image",
+    "model file": "original.prototxt",
+    "name": "Ball_Class4",
+    "snapshot file": "snapshot_iter_1230.caffemodel",
+    "solver file": "solver.prototxt",
+    "status": "Done",
+    "train_val file": "train_val.prototxt",
+    "username": "ball_classify"
+}
